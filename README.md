@@ -6,7 +6,7 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
-- `ACL20` You Impress Me: Dialogue Generation via Mutual Persona Perception, 2020. [[pdf]]((https://www.aclweb.org/anthology/2020.acl-main.131)) [[code]](https://github.com/SivilTaram/Persona-Dialogue-Generation)
+- `ACL20` You Impress Me: Dialogue Generation via Mutual Persona Perception, 2020. [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.131) [[code]](https://github.com/SivilTaram/Persona-Dialogue-Generation)
 - `EMNLP20` Like hiking? You probably enjoy nature: Persona-grounded Dialog with Commonsense Expansions, 2020. [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.739) [[code]](https://github.com/majumderb/compac)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Dataset-red" alt="conf"/>
