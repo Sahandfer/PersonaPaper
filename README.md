@@ -2,10 +2,14 @@
 
 > A list of papers related to persona-based dialogue systems and personalized response generation.
 
-<img src="https://img.shields.io/badge/Last%20Update-2021--09--19-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-14-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--12--07-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-18-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
+- Partner Personas Generation for Diverse Dialogue Generation, 2021. [[paper]](https://arxiv.org/abs/2111.13833)
+- Learning to Predict Persona Information for Dialogue Personalization without Explicit Persona Description, 2021. [[paper]](https://arxiv.org/abs/2111.15093)
+- Federated Natural Language Generation for Personalized Dialogue System, 2021. [[paper]](https://arxiv.org/abs/2110.06419)
+- `EMNLP21` Transferable Persona-Grounded Dialogues via Grounded Minimal Edits, 2021. [[paper]]() [[code]](https://github.com/thu-coai/grounded-minimal-edit)
 - Bilateral Personalized Dialogue Generation with Dynamic Persona-Aware Fusion, 2021. [[paper]](https://arxiv.org/abs/2106.07857)
 - `SIGIR21`  One Chatbot Per Person: Creating Personalized Chatbots based, 2021. [[paper]](https://arxiv.org/abs/2108.09355) [[code]](https://github.com/zhengyima/DHAP)
 - `ACL21`  BoB: BERT Over BERT for Training Persona-based Dialogue Models, 2021. [[paper]](https://arxiv.org/abs/2106.06169) [[code]](https://github.com/songhaoyu/BoB)
