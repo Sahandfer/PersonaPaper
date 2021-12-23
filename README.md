@@ -2,10 +2,11 @@
 
 > A list of papers related to persona-based dialogue systems and personalized response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--12--15-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-20-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--12--23-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-21-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
+- Am I Me or You? State-of-the-Art Dialogue Models Cannot Maintain an Identity, 2021. [[paper]](https://arxiv.org/abs/2112.05843)
 - Partner Personas Generation for Diverse Dialogue Generation, 2021. [[paper]](https://arxiv.org/abs/2111.13833)
 - Learning to Predict Persona Information for Dialogue Personalization without Explicit Persona Description, 2021. [[paper]](https://arxiv.org/abs/2111.15093)
 - Federated Natural Language Generation for Personalized Dialogue System, 2021. [[paper]](https://arxiv.org/abs/2110.06419)
