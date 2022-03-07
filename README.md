@@ -2,7 +2,7 @@
 
 > A list of papers related to persona-based dialogue systems and personalized response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--01--01-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-22-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--03--07-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-24-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
@@ -12,10 +12,12 @@
 - Federated Natural Language Generation for Personalized Dialogue System, 2021. [[paper]](https://arxiv.org/abs/2110.06419)
 - `EMNLP21` Detecting Speaker Personas from Conversational Texts, 2021. [[paper]](https://arxiv.org/abs/2109.01330) [[code]](https://github.com/JasonForJoy/SPD)
 - `EMNLP21` Transferable Persona-Grounded Dialogues via Grounded Minimal Edits, 2021. [[paper]]() [[code]](https://github.com/thu-coai/grounded-minimal-edit)
+- `CIKM21` Learning Implicit User Profiles for Personalized Retrieval-Based Chatbot, 2021. [[paper]](https://arxiv.org/abs/2108.07935) [[code]](https://github.com/qhjqhj00/CIKM2021-IMPChat)
 - Bilateral Personalized Dialogue Generation with Dynamic Persona-Aware Fusion, 2021. [[paper]](https://arxiv.org/abs/2106.07857)
 - `SIGIR21`  One Chatbot Per Person: Creating Personalized Chatbots based, 2021. [[paper]](https://arxiv.org/abs/2108.09355) [[code]](https://github.com/zhengyima/DHAP)
 - `SIGIR21`  Partner Matters! An Empirical Study on Fusing Personas for Personalized Response Selection in Retrieval-Based Chatbots, 2021. [[paper]](https://arxiv.org/abs/2105.09050) [[code]](https://github.com/JasonForJoy/Personalized-Response-Selection)
 - `ACL21`  BoB: BERT Over BERT for Training Persona-based Dialogue Models, 2021. [[paper]](https://arxiv.org/abs/2106.06169) [[code]](https://github.com/songhaoyu/BoB)
+- `ACL21`  Unsupervised Enrichment of Persona-grounded Dialog with Background Stories, 2021. [[paper]](https://arxiv.org/pdf/2106.08364.pdf) [[code]](https://github.com/majumderb/pabst)
 - `AAAI20` A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data, 2020. [[paper]](https://arxiv.org/abs/1911.04700) [[code]](https://github.com/ghosthamlet/persona?utm_source=catalyzex.com)
 - `ACL20` You Impress Me: Dialogue Generation via Mutual Persona Perception, 2020. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.131) [[code]](https://github.com/SivilTaram/Persona-Dialogue-Generation)
 - `EMNLP20` Like hiking? You probably enjoy nature: Persona-grounded Dialog with Commonsense Expansions, 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.739) [[code]](https://github.com/majumderb/compac)
