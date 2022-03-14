@@ -2,7 +2,7 @@
 
 > A list of papers related to persona-based dialogue systems and personalized response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--03--07-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-24-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--03--14-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-25-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
@@ -31,6 +31,7 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Framework-brightgreen" alt="arXiv"/>
 
+- `ACL22` Long Time No See! Open-Domain Conversation with Long-Term Persona Memory, 2022. [[paper]](http://arxiv.org/pdf/2203.05797v1)
 - `EMNLP21` Transferable Persona-Grounded Dialogues via Grounded Minimal Edits, 2021. [[paper]](https://arxiv.org/abs/2109.07713)
 - `EMNLP20` Towards Persona-Based Empathetic Conversational Models, 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.531) [[code]](https://github.com/zhongpeixiang/PEC)
 - `EMNLP20` A Multi-Persona Chatbot for Hotline Counselor Training, 2020. [[paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.324)
