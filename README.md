@@ -2,10 +2,11 @@
 
 > A list of papers related to persona-based dialogue systems and personalized response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--03--14-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-25-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--10--11-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-27-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
+- Persona-Knowledge Dialogue Multi-Context Retrieval and Enhanced Decoding Methods, 2022. [[paper]](https://arxiv.org/abs/2207.13919)
 - Am I Me or You? State-of-the-Art Dialogue Models Cannot Maintain an Identity, 2021. [[paper]](https://arxiv.org/abs/2112.05843)
 - Partner Personas Generation for Diverse Dialogue Generation, 2021. [[paper]](https://arxiv.org/abs/2111.13833)
 - Learning to Predict Persona Information for Dialogue Personalization without Explicit Persona Description, 2021. [[paper]](https://arxiv.org/abs/2111.15093)
@@ -27,7 +28,8 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Dataset-red" alt="conf"/>
 
-- `ACL18` Personalizing dialogue agents: I have a dog, do you have pets too?, 2018. [[paper]](https://arxiv.org/abs/1801.07243)
+- `AAAI22` Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge, 2022. [[paper]](https://arxiv.org/pdf/2112.08619.pdf) [[code]](https://github.com/pkchat-focus/FoCus)
+- `ACL18` Personalizing dialogue agents: I have a dog, do you have pets too?, 2018. [[paper]](https://arxiv.org/abs/1801.07243) [[code]](https://github.com/facebookresearch/ParlAI/tree/main/projects/personachat)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Framework-brightgreen" alt="arXiv"/>
 
