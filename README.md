@@ -7,10 +7,9 @@
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
 - `AAAI23` Learning to Memorize Entailment and Discourse Relations for Persona-Consistent Dialogues, 2022. [[paper]](https://arxiv.org/abs/2301.04871) [[code]](https://github.com/Chenrj233/LMEDR)
-(https://github.com/bangbangbang12315/MSP/tree/release)
 - `SIGIR22` COSPLAY: Concept Set Guided Personalized Dialogue Generation Across Both Party Personas, 2022. [[paper]](https://arxiv.org/abs/2205.00872)
 - `EMNLP22` You Truly Understand What I Need : Intellectual and Friendly Dialogue Agents grounding Knowledge and Persona, 2022. [[paper]](https://aclanthology.org/2022.findings-emnlp.75/) [[code]](https://github.com/dlawjddn803/INFO)
-- `NAACL22` Less is More: Learning to Refine Dialogue History for Personalized Dialogue Generation, 2022. [[paper]](https://aclanthology.org/2022.naacl-main.426/) [[code]]
+- `NAACL22` Less is More: Learning to Refine Dialogue History for Personalized Dialogue Generation, 2022. [[paper]](https://aclanthology.org/2022.naacl-main.426/) [[code]](https://github.com/bangbangbang12315/MSP/tree/release)
 - `NAACL22` Meet Your Favorite Character: Open-domain Chatbot Mimicking Fictional Characters with only a Few Utterances, 2022. [[paper]](https://arxiv.org/abs/2204.10825)
 - `NAACL22` Partner Personas Generation for Dialogue Response Generation, 2022. [[paper]](https://aclanthology.org/2022.naacl-main.382/) [[code]](https://aclanthology.org/attachments/2022.naacl-main.382.software.zip)
 - `COLLING22` Towards Building a Personalized Dialogue Generator via Implicit User Persona Detection, 2022. [[paper]](https://aclanthology.org/2022.coling-1.29/)
