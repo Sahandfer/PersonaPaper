@@ -2,10 +2,21 @@
 
 > A list of papers related to persona-based dialogue systems and personalized response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--10--11-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-27-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--03--13-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-38-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
+- `AAAI23` Learning to Memorize Entailment and Discourse Relations for Persona-Consistent Dialogues, 2022. [[paper]](https://arxiv.org/abs/2301.04871) [[code]](https://github.com/Chenrj233/LMEDR)
+(https://github.com/bangbangbang12315/MSP/tree/release)
+- `SIGIR22` COSPLAY: Concept Set Guided Personalized Dialogue Generation Across Both Party Personas, 2022. [[paper]](https://arxiv.org/abs/2205.00872)
+- `EMNLP22` You Truly Understand What I Need : Intellectual and Friendly Dialogue Agents grounding Knowledge and Persona, 2022. [[paper]](https://aclanthology.org/2022.findings-emnlp.75/) [[code]](https://github.com/dlawjddn803/INFO)
+- `NAACL22` Less is More: Learning to Refine Dialogue History for Personalized Dialogue Generation, 2022. [[paper]](https://aclanthology.org/2022.naacl-main.426/) [[code]]
+- `NAACL22` Meet Your Favorite Character: Open-domain Chatbot Mimicking Fictional Characters with only a Few Utterances, 2022. [[paper]](https://arxiv.org/abs/2204.10825)
+- `NAACL22` Partner Personas Generation for Dialogue Response Generation, 2022. [[paper]](https://aclanthology.org/2022.naacl-main.382/) [[code]](https://aclanthology.org/attachments/2022.naacl-main.382.software.zip)
+- `COLLING22` Towards Building a Personalized Dialogue Generator via Implicit User Persona Detection, 2022. [[paper]](https://aclanthology.org/2022.coling-1.29/)
+- `CIKM22` Improving Personality Consistency in Conversation by Persona Extending, 2022. [[paper]](https://arxiv.org/abs/2208.10816) [[code]](https://github.com/CCIIPLab/Persona_Extend/)
+- `ACL22` A Model-Agnostic Data Manipulation Method for Persona-based Dialogue Generation, 2022. [[paper]](https://aclanthology.org/2022.acl-long.550/) [[code]](https://github.com/caoyu-noob/D3)
+- MPI: Evaluating and Inducing Personality in Pre-trained Language Models, 2022. [[paper]](https://arxiv.org/abs/2206.07550)
 - Persona-Knowledge Dialogue Multi-Context Retrieval and Enhanced Decoding Methods, 2022. [[paper]](https://arxiv.org/abs/2207.13919)
 - Am I Me or You? State-of-the-Art Dialogue Models Cannot Maintain an Identity, 2021. [[paper]](https://arxiv.org/abs/2112.05843)
 - Partner Personas Generation for Diverse Dialogue Generation, 2021. [[paper]](https://arxiv.org/abs/2111.13833)
@@ -28,12 +39,13 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Dataset-red" alt="conf"/>
 
+- What would Harry say? Building Dialogue Agents for Characters in a Story, 2022. [[paper]](https://arxiv.org/abs/2211.06869)
+- `ACL22` Long Time No See! Open-Domain Conversation with Long-Term Persona Memory, 2022. [[paper]](http://arxiv.org/pdf/2203.05797v1) [[code]](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2022-DuLeMon)
 - `AAAI22` Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge, 2022. [[paper]](https://arxiv.org/pdf/2112.08619.pdf) [[code]](https://github.com/pkchat-focus/FoCus)
 - `ACL18` Personalizing dialogue agents: I have a dog, do you have pets too?, 2018. [[paper]](https://arxiv.org/abs/1801.07243) [[code]](https://github.com/facebookresearch/ParlAI/tree/main/projects/personachat)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Framework-brightgreen" alt="arXiv"/>
 
-- `ACL22` Long Time No See! Open-Domain Conversation with Long-Term Persona Memory, 2022. [[paper]](http://arxiv.org/pdf/2203.05797v1)
 - `EMNLP21` Transferable Persona-Grounded Dialogues via Grounded Minimal Edits, 2021. [[paper]](https://arxiv.org/abs/2109.07713)
 - `EMNLP20` Towards Persona-Based Empathetic Conversational Models, 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.531) [[code]](https://github.com/zhongpeixiang/PEC)
 - `EMNLP20` A Multi-Persona Chatbot for Hotline Counselor Training, 2020. [[paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.324)
