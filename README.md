@@ -1,8 +1,8 @@
 
 # Persona-based Dialogue Systems
-> A list of papers related to persona-based dialogue systems and personalized response generation.
+> A list of papers related to persona-based and character-based dialogue systems and personalized response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2024--02--27-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-51-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2024--02--27-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-52-2D333B" alt="PaperNum"/>
 
 ## List of Content
 
@@ -34,6 +34,7 @@ If you found this project helpful, please kindly cite our work:
 |:heavy_minus_sign:|Editing Personality for LLMs |[![arXiv](https://img.shields.io/badge/arXiv-2310.02168-b31b1b.svg)](https://arxiv.org/abs/2310.02168)|[![GitHub](https://img.shields.io/github/stars/zjunlp/EasyEdit)](https://github.com/zjunlp/EasyEdit)|
 | EMNLP23 |Character-LLM: A Trainable Agent for Role-Playing|[![arXiv](https://img.shields.io/badge/arXiv-2310.101581-b31b1b.svg)](https://arxiv.org/abs/2310.10158)|[![GitHub](https://img.shields.io/github/stars/choosewhatulike/trainable-agents)](https://github.com/choosewhatulike/trainable-agents)|
 | EMNLP23 | CoMPosT: Characterizing and Evaluating Caricature in LLM Simulations|[![arXiv](https://img.shields.io/badge/arXiv-2310.11501-b31b1b.svg)](https://arxiv.org/abs/2310.11501)|[![GitHub](https://img.shields.io/github/stars/myracheng/lm_caricature)](https://github.com/myracheng/lm_caricature)|
+| :heavy_minus_sign: |CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models |[![arXiv](https://img.shields.io/badge/arXiv-2311.16832-b31b1b.svg)](https://arxiv.org/abs/2311.16832)|[![GitHub](https://img.shields.io/github/stars/thu-coai/CharacterGLM-6B)](https://github.com/thu-coai/CharacterGLM-6B)|
 | :heavy_minus_sign:|Do LLMs Possess a Personality? Making the MBTI Test an Amazing Evaluation for Large Language Models |[![arXiv](https://img.shields.io/badge/arXiv-2307.16180-b31b1b.svg)](https://arxiv.org/abs/2307.16180)|:heavy_minus_sign:|
 | AAAI23 |Learning to Memorize Entailment and Discourse Relations for Persona-Consistent Dialogues|[![arXiv](https://img.shields.io/badge/arXiv-2301.04871-b31b1b.svg)](https://arxiv.org/abs/2301.04871)|[![GitHub](https://img.shields.io/github/stars/Chenrj233/LMEDR)](https://github.com/Chenrj233/LMEDR)|
 | SIGIR22 |COSPLAY: Concept Set Guided Personalized Dialogue Generation Across Both Party Personas|[![arXiv](https://img.shields.io/badge/arXiv-2205.00872-b31b1b.svg)](https://arxiv.org/abs/2205.00872)|:heavy_minus_sign:|
