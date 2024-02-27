@@ -2,12 +2,38 @@
 # Persona-based Dialogue Systems
 > A list of papers related to persona-based dialogue systems and personalized response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--11--22-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-42-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2024--02--27-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-51-2D333B" alt="PaperNum"/>
 
-# <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
+## List of Content
+
+- [Methods](#Methods)
+- [Datasets](#Datasets)
+- [Frameworks](#Frameworks)
+
+## Citation
+
+If you found this project helpful, please kindly cite our work:
+
+```
+@misc{sabour2024PersonaPaper,
+  author = {Sahand Sabour},
+  title = {EMPaper: A collection of papers for persona-based models},
+  year = {2024},
+  howpublished = {\url{https://github.com/Sahandfer/PersonaPaper}}
+}
+```
+
+## Methods
 
 | **Venue** | **Title** | **Paper** | **Code** |
 | :-------: | --------- |:---------:|:--------:|
+| :heavy_minus_sign:|InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews |[![arXiv](https://img.shields.io/badge/arXiv-2310.17976-b31b1b.svg)](https://arxiv.org/abs/2310.17976)|[![GitHub](https://img.shields.io/github/stars/Neph0s/InCharacter)](https://github.com/Neph0s/InCharacter)|
+| :heavy_minus_sign:|Faithful Persona-based Conversational Dataset Generation with Large Language Models |[![arXiv](https://img.shields.io/badge/arXiv-2312.10007-b31b1b.svg)](https://arxiv.org/abs/2312.10007)|[![GitHub](https://img.shields.io/github/stars/google-research-datasets/Synthetic-Persona-Chat)](https://github.com/google-research-datasets/Synthetic-Persona-Chat)|
+| :heavy_minus_sign:|Large Language Models are Superpositions of All Characters: Attaining Arbitrary Role-play via Self-Alignment |[![arXiv](https://img.shields.io/badge/arXiv-2401.12474-b31b1b.svg)](https://arxiv.org/abs/2401.12474)|[![GitHub](https://img.shields.io/github/stars/OFA-Sys/Ditto)](https://github.com/OFA-Sys/Ditto)|
+| ICLR24 |Bias Runs Deep: Implicit Reasoning Biases in Persona-Assigned LLMs|[![arXiv](https://img.shields.io/badge/arXiv-2311.04892-b31b1b.svg)](https://arxiv.org/abs/2311.04892)|[![GitHub](https://img.shields.io/github/stars/allenai/persona-bias](https://github.com/allenai/persona-bias)|
+|:heavy_minus_sign:|Editing Personality for LLMs |[![arXiv](https://img.shields.io/badge/arXiv-2310.02168-b31b1b.svg)](https://arxiv.org/abs/2310.02168)|[![GitHub](https://img.shields.io/github/stars/zjunlp/EasyEdit)](https://github.com/zjunlp/EasyEdit)|
+| EMNLP23 |Character-LLM: A Trainable Agent for Role-Playing|[![arXiv](https://img.shields.io/badge/arXiv-2310.101581-b31b1b.svg)](https://arxiv.org/abs/2310.10158)|[![GitHub](https://img.shields.io/github/stars/choosewhatulike/trainable-agents)](https://github.com/choosewhatulike/trainable-agents)|
+| EMNLP23 | CoMPosT: Characterizing and Evaluating Caricature in LLM Simulations|[![arXiv](https://img.shields.io/badge/arXiv-2310.11501-b31b1b.svg)](https://arxiv.org/abs/2310.11501)|[![GitHub](https://img.shields.io/github/stars/myracheng/lm_caricature)](https://github.com/myracheng/lm_caricature)|
 | :heavy_minus_sign:|Do LLMs Possess a Personality? Making the MBTI Test an Amazing Evaluation for Large Language Models |[![arXiv](https://img.shields.io/badge/arXiv-2307.16180-b31b1b.svg)](https://arxiv.org/abs/2307.16180)|:heavy_minus_sign:|
 | AAAI23 |Learning to Memorize Entailment and Discourse Relations for Persona-Consistent Dialogues|[![arXiv](https://img.shields.io/badge/arXiv-2301.04871-b31b1b.svg)](https://arxiv.org/abs/2301.04871)|[![GitHub](https://img.shields.io/github/stars/Chenrj233/LMEDR)](https://github.com/Chenrj233/LMEDR)|
 | SIGIR22 |COSPLAY: Concept Set Guided Personalized Dialogue Generation Across Both Party Personas|[![arXiv](https://img.shields.io/badge/arXiv-2205.00872-b31b1b.svg)](https://arxiv.org/abs/2205.00872)|:heavy_minus_sign:|
@@ -39,10 +65,12 @@
 | ACL19 |Personalizing Dialogue Agents via Meta-Learning|[![arXiv](https://img.shields.io/badge/arXiv-1905.10033-b31b1b.svg)](https://arxiv.org/abs/1905.10033)|[![GitHub](https://img.shields.io/github/stars/HLTCHKUST/PAML)](https://github.com/HLTCHKUST/PAML)|
 | ACL16 |A Persona-Based Neural Conversation Model|[![arXiv](https://img.shields.io/badge/arXiv-1603.06155-b31b1b.svg)](https://arxiv.org/abs/1603.06155)|:heavy_minus_sign:|
 
-# <img src="https://img.shields.io/badge/Paper%20Type-Dataset-red" alt="conf"/>
+## Datasets
 
 | **Venue** | **Title** | **Paper** | **Code** |
 | :-------: | --------- |:---------:|:--------:|
+| :heavy_minus_sign: |RoleEval: A Bilingual Role Evaluation Benchmark for Large Language Models|[![arXiv](https://img.shields.io/badge/arXiv-2312.16132-b31b1b.svg)](http://arxiv.org/pdf/2312.16132)|[![GitHub](https://img.shields.io/github/stars/Magnetic2014/RoleEval)](https://github.com/Magnetic2014/RoleEval)|
+| EMNLP23 |Large Language Models Meet Harry Potter: A Bilingual Dataset for Aligning Dialogue Agents with Characters|[![arXiv](https://img.shields.io/badge/arXiv-2211.06869-b31b1b.svg)](http://arxiv.org/pdf/2211.06869)|[![GitHub](https://img.shields.io/github/stars/nuochenpku/Harry-Potter-Dialogue-Dataset)](https://github.com/nuochenpku/Harry-Potter-Dialogue-Dataset)|
 | :heavy_minus_sign: | RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models |[![arXiv](https://img.shields.io/badge/arXiv-2310.00746-b31b1b.svg)](http://arxiv.org/pdf/2310.00746)|[![GitHub](https://img.shields.io/github/stars/InteractiveNLP-Team/RoleLLM-public)](https://github.com/InteractiveNLP-Team/RoleLLM-public)|
 | :heavy_minus_sign: | LaMP: When Large Language Models Meet Personalization |[![arXiv](https://img.shields.io/badge/arXiv-2304.11406-b31b1b.svg)](http://arxiv.org/pdf/2304.11406)|[![GitHub](https://img.shields.io/github/stars/LaMP-Benchmark/LaMP)](https://github.com/LaMP-Benchmark/LaMP)|
 | :heavy_minus_sign: |What would Harry say? Building Dialogue Agents for Characters in a Story|[![arXiv](https://img.shields.io/badge/arXiv-2211.06869-b31b1b.svg)](https://arxiv.org/abs/2211.06869)|:heavy_minus_sign:|
@@ -50,7 +78,7 @@
 | AAAI22 |Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge|[![arXiv](https://img.shields.io/badge/arXiv-2112.08619.pdf-b31b1b.svg)](https://arxiv.org/pdf/2112.08619.pdf)|[![GitHub](https://img.shields.io/github/stars/pkchat-focus/FoCus)](https://github.com/pkchat-focus/FoCus)|
 | ACL18 |Personalizing dialogue agents: I have a dog, do you have pets too?|[![arXiv](https://img.shields.io/badge/arXiv-1801.07243-b31b1b.svg)](https://arxiv.org/abs/1801.07243)|[![GitHub](https://img.shields.io/github/stars/facebookresearch/ParlAI)](https://github.com/facebookresearch/ParlAI/tree/main/projects/personachat)|
 
-# <img src="https://img.shields.io/badge/Paper%20Type-Framework-brightgreen" alt="arXiv"/>
+## Frameworks
 
 | **Venue** | **Title** | **Paper** | **Code** |
 | :-------: | --------- |:---------:|:--------:|
