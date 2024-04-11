@@ -2,7 +2,7 @@
 # Persona-based Dialogue Systems
 > A list of papers related to persona-based and character-based dialogue systems and personalized response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2024--02--27-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-52-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2024--04--11-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-60-2D333B" alt="PaperNum"/>
 
 ## List of Content
 
@@ -17,7 +17,7 @@ If you found this project helpful, please kindly cite our work:
 ```
 @misc{sabour2024PersonaPaper,
   author = {Sahand Sabour},
-  title = {EMPaper: A collection of papers for persona-based models},
+  title = {PersonaPaper: A collection of papers for persona-based models},
   year = {2024},
   howpublished = {\url{https://github.com/Sahandfer/PersonaPaper}}
 }
@@ -27,6 +27,13 @@ If you found this project helpful, please kindly cite our work:
 
 | **Venue** | **Title** | **Paper** | **Code** |
 | :-------: | --------- |:---------:|:--------:|
+| :heavy_minus_sign:| How Far Are We from Believable AI Agents? A Framework for Evaluating the Believability of Human Behavior Simulation |[![arXiv](https://img.shields.io/badge/arXiv-2312.17115-b31b1b.svg)](https://arxiv.org/abs/2312.17115)|[![GitHub](https://img.shields.io/github/stars/GAIR-NLP/SimulateBench)](https://github.com/GAIR-NLP/SimulateBench)|
+| :heavy_minus_sign:| Large Language Models are Superpositions of All Characters: Attaining Arbitrary Role-play via Self-Alignment |[![arXiv](https://img.shields.io/badge/arXiv-2401.12474-b31b1b.svg)](https://arxiv.org/abs/2401.12474)|[![GitHub](https://img.shields.io/github/stars/OFA-Sys/Ditto)](https://github.com/OFA-Sys/Ditto)|
+| :heavy_minus_sign:| ControlLM: Crafting Diverse Personalities for Language Models |[![arXiv](https://img.shields.io/badge/arXiv-2402.10151-b31b1b.svg)](https://arxiv.org/abs/2402.10151)|[![GitHub](https://img.shields.io/github/stars/wengsyx/ControlLM)](https://github.com/wengsyx/ControlLM)|
+| :heavy_minus_sign:| Measuring and Controlling Persona Drift in Language Model Dialogs |[![arXiv](https://img.shields.io/badge/arXiv-2402.10962-b31b1b.svg)](https://arxiv.org/abs/2402.10962)|[![GitHub](https://img.shields.io/github/stars/likenneth/persona_drift)](https://github.com/likenneth/persona_drift)|
+| :heavy_minus_sign:| "In Dialogues We Learn": Towards Personalized Dialogue Without Pre-defined Profiles through In-Dialogue Learning |[![arXiv](https://img.shields.io/badge/arXiv-2403.03102-b31b1b.svg)](https://arxiv.org/abs/2403.03102)|[![GitHub](https://img.shields.io/github/stars/steven-ccq/In-Dialogue-Learning)](https://github.com/steven-ccq/In-Dialogue-Learning)|
+| :heavy_minus_sign:| Quantifying the Persona Effect in LLM Simulations |[![arXiv](https://img.shields.io/badge/arXiv-2402.10811-b31b1b.svg)](https://arxiv.org/abs/2402.10811)|:heavy_minus_sign:|
+| :heavy_minus_sign:| Is Cognition and Action Consistent or Not: Investigating Large Language Model's Personality |[![arXiv](https://img.shields.io/badge/arXiv-2402.14679-b31b1b.svg)](https://arxiv.org/abs/2402.14679)|:heavy_minus_sign:|
 | :heavy_minus_sign:|InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews |[![arXiv](https://img.shields.io/badge/arXiv-2310.17976-b31b1b.svg)](https://arxiv.org/abs/2310.17976)|[![GitHub](https://img.shields.io/github/stars/Neph0s/InCharacter)](https://github.com/Neph0s/InCharacter)|
 | :heavy_minus_sign:|Faithful Persona-based Conversational Dataset Generation with Large Language Models |[![arXiv](https://img.shields.io/badge/arXiv-2312.10007-b31b1b.svg)](https://arxiv.org/abs/2312.10007)|[![GitHub](https://img.shields.io/github/stars/google-research-datasets/Synthetic-Persona-Chat)](https://github.com/google-research-datasets/Synthetic-Persona-Chat)|
 | :heavy_minus_sign:|Large Language Models are Superpositions of All Characters: Attaining Arbitrary Role-play via Self-Alignment |[![arXiv](https://img.shields.io/badge/arXiv-2401.12474-b31b1b.svg)](https://arxiv.org/abs/2401.12474)|[![GitHub](https://img.shields.io/github/stars/OFA-Sys/Ditto)](https://github.com/OFA-Sys/Ditto)|
@@ -71,6 +78,7 @@ If you found this project helpful, please kindly cite our work:
 | **Venue** | **Title** | **Paper** | **Code** |
 | :-------: | --------- |:---------:|:--------:|
 | :heavy_minus_sign: |RoleEval: A Bilingual Role Evaluation Benchmark for Large Language Models|[![arXiv](https://img.shields.io/badge/arXiv-2312.16132-b31b1b.svg)](http://arxiv.org/pdf/2312.16132)|[![GitHub](https://img.shields.io/github/stars/Magnetic2014/RoleEval)](https://github.com/Magnetic2014/RoleEval)|
+| EMNLP23 |PeaCoK: Persona Commonsense Knowledge for Consistent and Engaging Narratives|[![arXiv](https://img.shields.io/badge/arXiv-2305.02364-b31b1b.svg)](http://arxiv.org/pdf/2305.02364)|[![GitHub](https://img.shields.io/github/stars/Silin159/PeaCoK)](https://github.com/Silin159/PeaCoK)|
 | EMNLP23 |Large Language Models Meet Harry Potter: A Bilingual Dataset for Aligning Dialogue Agents with Characters|[![arXiv](https://img.shields.io/badge/arXiv-2211.06869-b31b1b.svg)](http://arxiv.org/pdf/2211.06869)|[![GitHub](https://img.shields.io/github/stars/nuochenpku/Harry-Potter-Dialogue-Dataset)](https://github.com/nuochenpku/Harry-Potter-Dialogue-Dataset)|
 | :heavy_minus_sign: | RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models |[![arXiv](https://img.shields.io/badge/arXiv-2310.00746-b31b1b.svg)](http://arxiv.org/pdf/2310.00746)|[![GitHub](https://img.shields.io/github/stars/InteractiveNLP-Team/RoleLLM-public)](https://github.com/InteractiveNLP-Team/RoleLLM-public)|
 | :heavy_minus_sign: | LaMP: When Large Language Models Meet Personalization |[![arXiv](https://img.shields.io/badge/arXiv-2304.11406-b31b1b.svg)](http://arxiv.org/pdf/2304.11406)|[![GitHub](https://img.shields.io/github/stars/LaMP-Benchmark/LaMP)](https://github.com/LaMP-Benchmark/LaMP)|
