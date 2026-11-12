@@ -97,7 +97,7 @@ If you found this project helpful, please kindly cite our work:
 | EMNLP20 |A Multi-Persona Chatbot for Hotline Counselor Training|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://www.aclweb.org/anthology/2020.findings-emnlp.324)|:heavy_minus_sign:|
 | ACL20 |Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation|[![arXiv](https://img.shields.io/badge/arXiv-2004.07672-b31b1b.svg)](https://arxiv.org/abs/2004.07672)|:heavy_minus_sign:|
 | ACL19 |Persuasion for good: Towards a personalized persuasive dialogue system for social good|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://www.aclweb.org/anthology/P19-1566)|[![GitHub](https://img.shields.io/gitlab/stars/ucdavisnlp/persuasionforgood)](https://gitlab.com/ucdavisnlp/persuasionforgood)|
-| :heavy_minus_sign: |Project Nightcord Sanctuary: A Closed-World Multi-Agent Framework for Studying Persona Drift and Correction in LLM Roleplay Agents |[[DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21295225-b31b1b.svg)](https://doi.org/10.5281/zenodo.21295225)|[[GitHub](https://img.shields.io/github/stars/Palintropic/Starlight-PNS)](https://github.com/Palintropic/Starlight-PNS)|
+| :heavy_minus_sign: |Project Nightcord Sanctuary: A Closed-World Multi-Agent Framework for Studying Persona Drift and Correction in LLM Roleplay Agents |[[DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24138238-b31b1b.svg)](https://doi.org/10.5281/zenodo.24138238)|[[GitHub](https://img.shields.io/github/stars/Palintropic/Starlight-PNS)](https://github.com/Palintropic/Starlight-PNS)|
 
 ## Copyright
 
